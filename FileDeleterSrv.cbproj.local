@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.296,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.671,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.843,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.250,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.406,=E:\C_projects\MatsumotoYukihiro\clean_operation.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.578,F:\my_document\RAD Studio\Projects\Unit1.cpp=E:\C_projects\MatsumotoYukihiro\main.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.171,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.359,F:\my_document\RAD Studio\Projects\Project1.cbproj=E:\C_projects\MatsumotoYukihiro\Matsumoto_Yukihiro.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.578,F:\my_document\RAD Studio\Projects\Unit1.dfm=E:\C_projects\MatsumotoYukihiro\main.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.968,=E:\C_projects\MatsumotoYukihiro\clean_operation.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.718,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.187,=F:\my_document\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.578,F:\my_document\RAD Studio\Projects\Unit1.h=E:\C_projects\MatsumotoYukihiro\main.h</Transaction>
+    <Transaction>2020/06/14 17:22:19.000.789,E:\RadStudio10_3Projs\MatsumotoYukihiro\Matsumoto_Yukihiro.cbproj=E:\RadStudio10_3Projs\MatsumotoYukihiro\FileDeleterSrv.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="clean_operation.cpp"/>
+    <File Path="clean_operation.h"/>
+    <File Path="main.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.dfm"/>
+    <File Path="main.h"/>
+    <File Path="FileDeleterSrv.cpp"/>
+    <File Path="FileDeleterSrv.res"/>
+  </ProjectSortOrder>
+</BorlandProject>
